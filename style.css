@@ -79,28 +79,28 @@ header>nav {
     flex-direction: column;
     justify-content: space-between;
 }
-.product-photo {
+.z-photo {
     height: 160px;
     max-width: 90%;
 }
-.description-of-product {
+.description-of-z {
     font-size: 12px;
     color: rgb(85, 85, 85);
     font-family: 'Open Sans', sans-serif;
     overflow: hidden;
     max-height: 55px;
 }
-.price-of-product {
+.price-of-z {
     max-width: 100px;
     max-height: 30px;
     overflow: hidden;
 }
-.name-of-product {
+.name-of-z {
     max-width: 135px;
     max-height: 30px;
     overflow: hidden;
 }
-.buy-product-button {
+.z-button {
     background-color: rgb(24, 189, 79);
     color: white;
     font-size: 14px;
